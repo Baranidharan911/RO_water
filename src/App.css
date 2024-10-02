@@ -1,0 +1,29 @@
+/* src/App.css */
+
+.dashboard-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  text-align: center;
+  color: #fff;
+}
+
+.dashboard-container h2 {
+  margin-bottom: 20px;
+}
+
+.dashboard-container button {
+  padding: 10px;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.dashboard-container button:hover {
+  background: #0056b3;
+}
